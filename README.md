@@ -1,5 +1,10 @@
-111-1 大四上課 - Recommand System uses SanDiego_
+111-1 大四上課 - Recommand System uses SanDiego bookclub
+### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition -- 2019
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl_geron.jpg?raw=true" width="160">
 
+Jupyter notebooks with code from Hands-On Machine Learning is available in this repo:  https://github.com/ageron/handson-ml2.
+
+---
 
 Notes and links from the SDML book club meetings
 
