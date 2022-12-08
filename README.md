@@ -1,3 +1,6 @@
+111-1 大四上課 - Recommand System uses SanDiego_
+
+
 Notes and links from the SDML book club meetings
 
 ### Learning SQL Queries
